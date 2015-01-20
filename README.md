@@ -13,4 +13,5 @@ Node.js 等各种前端笔记
 ---
 
 ##jade
+>[Jade 官方网站](http://jade-lang.com/)  
 >[Jade模板引擎入门教程](http://my.oschina.net/willSoft/blog/87496)
