@@ -6,7 +6,7 @@ Node.js 等各种前端笔记
 ---
 
 ##node.js  
-wait..
+>wait..
 ---
 
 ##jade
